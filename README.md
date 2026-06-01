@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## 🎮 Demonstração
-
 <p align="center">
-  <img src="./assets/demo.gif" width="800">
+  <img src="./images/cruz.gif" width="200">
 </p>
